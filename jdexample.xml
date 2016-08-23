@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="content" method="upgrade">
+	<name>Simple Plugin</name>
+	<author>Ramesh Elamathi</author>
+	<creationDate>August 2016</creationDate>
+	<copyright>Copyright (C) 2005 - 2016 J2Store. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>ramesh@j2store.org</authorEmail>
+	<authorUrl>www.j2store.org</authorUrl>
+	<version>1.0.0</version>
+	<description>Sample Plugin</description>
+	<files>
+		<filename plugin="jdexample">jdexample.php</filename>
+	</files>
